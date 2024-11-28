@@ -21,7 +21,7 @@ The repository contains the following directories and files:
     - **`3-Testing.ipynb`**: Tests the trained model on unseen data.
 
 ## Acknowledgements
-Special thanks to Tamer Thamoqa for making their implementation publicly available. Their work served as the foundation for this project, allowing us to experiment with evasion and poisoning attacks effectively. Their detailed documentation and well-organized repository greatly facilitated our understanding and replication of their results!
+Special thanks to Tamer Thamoqa for making their implementation publicly available. Their work served as the foundation for this project, and their detailed documentation and well-organized repository greatly facilitated our understanding and replication of their results!
 
 ---
 
